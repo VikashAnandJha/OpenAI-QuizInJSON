@@ -1,0 +1,15 @@
+{
+  "name": "auto-wordpress",
+  "version": "1.0.0",
+  "description": "Auto Wordpress post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikash anan djha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}

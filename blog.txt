@@ -1,0 +1,27 @@
+[
+    {
+        "quiz_title": "What year did the American Revolution begin?",
+        "options": ["1776", "1775", "1778", "1777"],
+        "correct_option": "1775"
+    },
+    {
+        "quiz_title": "Who wrote the Declaration of Independence?",
+        "options": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"],
+        "correct_option": "Thomas Jefferson"
+    },
+    {
+        "quiz_title": "What was the name of the first permanent English settlement in North America?",
+        "options": ["Jamestown", "Plymouth", "Boston", "New York"],
+        "correct_option": "Jamestown"
+    },
+    {
+        "quiz_title": "What year did the United States enter World War II?",
+        "options": ["1941", "1939", "1940", "1942"],
+        "correct_option": "1941"
+    },
+    {
+        "quiz_title": "Who was the first president of the United States?",
+        "options": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"],
+        "correct_option": "George Washington"
+    }
+]
