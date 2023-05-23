@@ -1,7 +1,7 @@
 [
     {
         "quiz_title": "What year did the American Revolution begin?",
-        "options": ["1776", "1775", "1778", "1777"],
+        "options": ["1777", "1775", "1778", "1777"],
         "correct_option": "1775"
     },
     {
